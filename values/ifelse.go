@@ -16,7 +16,7 @@ func IfElseGo() {
 }
 
 func Swithcase() {
-	x := 100
+	x := 1
 	switch {
 	case x > 100:
 		fmt.Println("case > 100")
